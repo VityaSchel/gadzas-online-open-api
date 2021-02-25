@@ -42,6 +42,13 @@
             "source": "tserkovnaya2",
             "year": 2019
         },
+        "megaTurboWinSpecial": {
+            "description": "",
+            "duration": 72,
+            "name": "Гадза лонг-лайв, мега твин турбов, королевская юбилейная специально для нашего сайта",
+            "source": "megaTurboWinSpecial",
+            "year": 2021
+        },
         "ohSatan": {
             "description": "",
             "duration": 56,
@@ -58,9 +65,9 @@
         },
         "vitasMasloMaskGadza": {
             "description": "",
-            "duration": 133,
+            "duration": 129,
             "name": "Витас масло маска маслорий мега космическая гадза",
-            "source": "maslovitaasa",
+            "source": "maslovitasa",
             "year": 2017
         }
     },
@@ -74,14 +81,14 @@
         },
         "bigGorilla": {
             "description": "",
-            "duration": 14,
+            "duration": 13,
             "name": "Big gorilla",
             "source": "biggorilla",
             "year": 2020
         },
         "colonelGadza": {
             "description": "Присутствует эффект слетания масочки и ранняя стадия Сухача",
-            "duration": 52,
+            "duration": 25,
             "name": "Гадза для полковника",
             "source": "polkovnic",
             "year": 2017
@@ -109,7 +116,7 @@
         },
         "four_three_two_one_takist_eblan": {
             "description": "",
-            "duration": 106,
+            "duration": 105,
             "name": "Четыре, три, два, ноль. Танкист - кроль",
             "source": "tankrol",
             "year": 2020
@@ -209,7 +216,7 @@
         },
         "_3D_5dot0": {
             "description": "Самая стандартная три д пять ноль гадзилла со слабовыраженными эффектами денчеза ранней стадии",
-            "duration": 16,
+            "duration": 13,
             "name": "3D 5.0",
             "source": "3d50tank",
             "year": 2018
@@ -230,7 +237,7 @@
         },
         "classic3Dgadza": {
             "description": "ГРОМКАЯ стереоскопическая-косммическая гадза, передающая боль в душе украинского киборга",
-            "duration": 27,
+            "duration": 26,
             "name": "Классическая 3D",
             "source": "3dclassic",
             "year": 2016
@@ -251,7 +258,7 @@
         },
         "modern3Dgadza": {
             "description": "Гадза, пережившая целых три перезалива на сайт",
-            "duration": 32,
+            "duration": 49,
             "name": "Современная 3D гадза",
             "source": "sovremennaya",
             "year": 2016
@@ -265,7 +272,7 @@
         },
         "turboWin": {
             "description": "Отчаянный денис, еще не освоившийся после кражи маски, пытается изобразить, что он - дед",
-            "duration": 41,
+            "duration": 42,
             "name": "Турбо вин",
             "source": "turbowin",
             "year": 2018
@@ -274,7 +281,7 @@
     "donates": {
         "amazingBigGadza": {
             "description": "",
-            "duration": 21,
+            "duration": 20,
             "name": "Шикарная большая гадза",
             "source": "amazing",
             "year": 2020
@@ -351,7 +358,7 @@
         },
         "holyKurgan": {
             "description": "",
-            "duration": 89,
+            "duration": 83,
             "name": "Святой курган",
             "source": "kurgan",
             "year": 2020
@@ -365,7 +372,7 @@
         },
         "indianChrishin": {
             "description": "",
-            "duration": 14,
+            "duration": 13,
             "name": "Индусско-кришинаисская гадза",
             "source": "indianChrishin",
             "year": 2020
@@ -400,7 +407,7 @@
         },
         "platypusGadza": {
             "description": "",
-            "duration": 15,
+            "duration": 14,
             "name": "Утконосная гадза",
             "source": "utkanos",
             "year": 2020
@@ -451,7 +458,7 @@
     "lite": {
         "BmLM": {
             "description": "",
-            "duration": 6,
+            "duration": 5,
             "name": "Black Mamba Lives Matter",
             "source": "blackmamba",
             "year": 2020
@@ -472,7 +479,7 @@
         },
         "cyberGadza": {
             "description": "Борьба дениса с валакасом в 14 секундах",
-            "duration": 14,
+            "duration": 15,
             "name": "Кибер-гадза",
             "source": "cyber",
             "year": 2018
@@ -586,7 +593,7 @@
         },
         "_5twin": {
             "description": "Нелепое подобие церковной атмосферной гадзы, наспех сделанное денисом сухачевским",
-            "duration": 101,
+            "duration": 102,
             "name": "5 Твин",
             "source": "5twin",
             "year": 2018
@@ -600,7 +607,7 @@
         },
         "anomalyCosmicGadza": {
             "description": "",
-            "duration": 78,
+            "duration": 67,
             "name": "Аномально-космическая гадза",
             "source": "anomalspace",
             "year": 2020
@@ -621,14 +628,14 @@
         },
         "celebrate": {
             "description": "С днем рождения, наш сайт!",
-            "duration": 18,
+            "duration": 17,
             "name": "Поздравительная гадза",
             "source": "celebrate",
             "year": 2021
         },
         "christovaSpirit": {
             "description": "",
-            "duration": 254,
+            "duration": 253,
             "name": "Гадза Христова духа (за 1000)",
             "source": "jesus",
             "year": 2020
@@ -670,7 +677,7 @@
         },
         "satanMegaGadza": {
             "description": "",
-            "duration": 204,
+            "duration": 203,
             "name": "Сатанистская мега-гадза",
             "source": "satanamega",
             "year": 2020
@@ -698,7 +705,7 @@
         },
         "vrchatgadza": {
             "description": "",
-            "duration": 16,
+            "duration": 13,
             "name": "Виртуальная гадза для VR Chat",
             "source": "vr",
             "year": 2018
