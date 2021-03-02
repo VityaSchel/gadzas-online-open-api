@@ -405,6 +405,13 @@
             "source": "mayki",
             "year": 2018
         },
+        "pena5k": {
+            "description": "Пена вылез из под столика, чтобы сделать свою первую в жизни гадзу",
+            "duration": 30,
+            "name": "Гадза за 5000 от Пены",
+            "source": "pena5k",
+            "year": 2019
+        },
         "platypusGadza": {
             "description": "",
             "duration": 14,
