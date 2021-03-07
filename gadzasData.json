@@ -72,6 +72,13 @@
         }
     },
     "characters": {
+        "aboba": {
+            "description": "Абоба - кандидат от народа 2024",
+            "duration": 12,
+            "name": "🅰️🅱️🅾️🅱️🅰️",
+            "source": "aboba",
+            "year": 2021
+        },
         "angelGadza": {
             "description": "",
             "duration": 69,
