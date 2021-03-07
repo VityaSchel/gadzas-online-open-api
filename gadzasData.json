@@ -575,6 +575,13 @@
             "source": "tromb",
             "year": 2020
         },
+        "ukrainianGadza": {
+            "description": "",
+            "duration": 72,
+            "name": "Украинская Гадза",
+            "source": "ukrainianGadza",
+            "year": 2019
+        },
         "warzoneGadzas": {
             "description": "",
             "duration": 22,
